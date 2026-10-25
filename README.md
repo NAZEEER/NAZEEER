@@ -11,20 +11,21 @@ I’m currently building a task-management API with input validation and automat
 **Currently Learning:** React Hooks, State Management, and API Integration
 
 ### What I’m Currently Working On
-- Building small web projects to master React.js  
-- Improving UI/UX through clean, responsive design  
+- Building small web projects to master React.js
+- Improving UI/UX through clean, responsive design
 - Learning performance optimization and accessibility
 
 ### Some of My Projects
-1. [To-Do List App](https://github.com/NAZEER/to-do-list): CRUD app using JS & local storage  
-2. [Digital Clock](https://github.com/NAZEER/digital-clock2): Real-time digital clock  
-3. [Color Flipper](https://github.com/NAZEER/color-flipper): Generates random colors with a clean UI
+1. [Task Tracker](https://github.com/NAZEER/to-do-list) — Create, edit, and delete tasks; saves the list in browser local storage.
+2. [Live Digital Clock](https://github.com/NAZEER/digital-clock2) — Displays the current time and updates in real time.
+3. [Random Color Generator](https://github.com/NAZEER/color-flipper) — Generates random colors and displays them in a clean interface.
 
 ### My Focus
 I believe good code should be simple, readable, and maintainable.  
 I enjoy working on the front-end where creativity meets logic.
 
 ### Reach Me
-- Email: **mohamednazeer710@gmail.com**  
-- LinkedIn: [linkedin.com/in/mohamednazeer710](https://www.linkedin.com/in/mohamednazeer710)  
+- Email: **mohamednazeer710@gmail.com**
+- LinkedIn: [linkedin.com/in/mohamednazeer710](https://www.linkedin.com/in/mohamednazeer710)
+
 “Code. Debug. Learn. Repeat.”
