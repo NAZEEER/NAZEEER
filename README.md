@@ -1,6 +1,8 @@
-# Hey, I'm Mohamed Nazeer
+# Hi, I’m Mohamed Nazeer
 
-I'm a Front-End Developer who enjoys turning complex problems into simple, beautiful, and intuitive designs.
+I’m a BCA graduate (2025) pursuing an MCA by correspondence. I build responsive web interfaces with React and JavaScript, and I’m growing my Python backend skills with FastAPI.
+
+I’m currently building a task-management API with input validation and automated tests. My goal is to connect strong frontend experiences to reliable Python services, then add useful AI features as I develop those skills.
 
 ### Tech Stack
 **Languages:** JavaScript (ES6+), HTML5, CSS3  
@@ -14,9 +16,9 @@ I'm a Front-End Developer who enjoys turning complex problems into simple, beaut
 - Learning performance optimization and accessibility
 
 ### Some of My Projects
-1. [To-Do List App](https://github.com/NAZEEER/to-do-list): CRUD app using JS & local storage  
-2. [Digital Clock](https://github.com/NAZEEER/digital-clock2): Real-time digital clock  
-3. [Color Flipper](https://github.com/NAZEEER/color-flipper): Generates random colors with a clean UI  
+1. [To-Do List App](https://github.com/NAZEER/to-do-list): CRUD app using JS & local storage  
+2. [Digital Clock](https://github.com/NAZEER/digital-clock2): Real-time digital clock  
+3. [Color Flipper](https://github.com/NAZEER/color-flipper): Generates random colors with a clean UI
 
 ### My Focus
 I believe good code should be simple, readable, and maintainable.  
@@ -25,5 +27,4 @@ I enjoy working on the front-end where creativity meets logic.
 ### Reach Me
 - Email: **mohamednazeer710@gmail.com**  
 - LinkedIn: [linkedin.com/in/mohamednazeer710](https://www.linkedin.com/in/mohamednazeer710)  
-
- “Code. Debug. Learn. Repeat.”  
+“Code. Debug. Learn. Repeat.”
